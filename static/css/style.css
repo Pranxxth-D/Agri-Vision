@@ -1276,6 +1276,21 @@ body {
     color: rgba(255,255,255,1);
     transform: translateY(-3px);
 }
+/*
+|--------------------------------------------------------------------------
+| Responsive Navigation Handling
+|--------------------------------------------------------------------------
+| Handles all navbar interactions including:
+| - Mobile menu toggle
+| - Smooth scrolling navigation
+| - Active section highlighting
+| - Dynamic navbar background updates
+| - Accessibility improvements for keyboard users
+|
+| The goal is to provide a seamless navigation experience across
+| desktop, tablet, and mobile devices.
+|--------------------------------------------------------------------------
+*/
 
 @media (max-width: 768px) {
     .footer-container {
